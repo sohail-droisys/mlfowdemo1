@@ -1,0 +1,9 @@
+# train and val data
+train: D:\yolov8\dataset\images\train
+val: D:\yolov8\dataset\images\val
+
+# number of classes
+nc: 4
+
+# class names
+names: ['speed limit', 'yield', 'mandatory', 'other']
